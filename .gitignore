@@ -1,0 +1,5 @@
+.ipython/
+.mplconfig/
+.venv/
+__pycache__/
+ml/data/
